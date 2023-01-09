@@ -1,0 +1,13 @@
+.hero{
+    width: screen;
+    height: 700px;
+    background: black;
+    display: flex;
+    justify-content: space-between;
+}
+.img-1{
+    margin-top: 200px;
+}
+.img-2{
+    margin-top: 200px;
+}
